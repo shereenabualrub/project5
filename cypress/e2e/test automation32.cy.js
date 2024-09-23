@@ -1,5 +1,5 @@
 /// <reference types= "cypress" />
-//12
+
 Cypress.on('uncaught:exception', (err, runnable) => {
   
   return false
